@@ -3288,6 +3288,12 @@ border:solid 1px #ddd;
   -moz-transform: rotate(-45deg);
 }
 
+.mu-venue-map iframe {
+	margin-bottom: -8px;
+	display: inline;
+	float: left;
+	width: 100%;
+}
 /* light version */
 
 .pricing-s1.light .top {
