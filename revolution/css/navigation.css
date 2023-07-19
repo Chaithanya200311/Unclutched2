@@ -33,12 +33,12 @@ website:    http://www.themepunch.com
     z-index:2;
     position:relative;
 }
-.ares.tparrows.tp-leftarrow:before {
+/*.ares.tparrows.tp-leftarrow:before {
   content: "\e81f";
 }
 .ares.tparrows.tp-rightarrow:before {
   content: "\e81e";
-}
+}*/
 .ares.tparrows:hover:before {
  color:#000;
       }
@@ -271,13 +271,13 @@ website:    http://www.themepunch.com
 	line-height: 40px;
 	text-align: center;
 }
-.custom.tparrows.tp-leftarrow:before {
+/*.custom.tparrows.tp-leftarrow:before {
 	content: "\e824";
 }
 .custom.tparrows.tp-rightarrow:before {
 	content: "\e825";
 }
-
+*/
 
 
 /* BULLETS */
@@ -528,12 +528,12 @@ website:    http://www.themepunch.com
   z-index:2;
   position:relative;
 }
-.erinyen.tparrows.tp-leftarrow:before {
+/*.erinyen.tparrows.tp-leftarrow:before {
   content: "\e824";
 }
 .erinyen.tparrows.tp-rightarrow:before {
   content: "\e825";
-}
+}*/
 
 .erinyen .tp-title-wrap { 
   position:absolute;
@@ -565,7 +565,7 @@ website:    http://www.themepunch.com
   visibility:visible;
 }
         
- .erinyen.tp-rightarrow .tp-title-wrap { 
+ /*.erinyen.tp-rightarrow .tp-title-wrap { 
    right:0px;
    margin-right:0px;margin-left:0px;
    -webkit-transform-origin:100% 50%;
@@ -579,7 +579,7 @@ website:    http://www.themepunch.com
    padding-left:20px;
   padding-right:10px;
 }
-
+*/
 .erinyen .tp-arr-titleholder {
   letter-spacing: 3px;
    position:relative;
@@ -1011,13 +1011,13 @@ website:    http://www.themepunch.com
 	text-align: center;
   transition: background 0.3s, color 0.3s;
 }
-.hades.tparrows.tp-leftarrow:before {
+/*.hades.tparrows.tp-leftarrow:before {
 	content: "\e824";
 }
 .hades.tparrows.tp-rightarrow:before {
 	content: "\e825";
 }
-
+*/
 .hades.tparrows:hover:before {
    color:#aaa;
    background:#fff;
@@ -1274,12 +1274,12 @@ website:    http://www.themepunch.com
   min-width:70px;
     min-height:70px;
 }
-.hebe.tparrows.tp-leftarrow:before {
+/*.hebe.tparrows.tp-leftarrow:before {
   content: "\e824";
 }
 .hebe.tparrows.tp-rightarrow:before {
   content: "\e825";
-}
+}*/
 .hebe.tparrows:hover:before {
  color:#000;
       }
@@ -1465,7 +1465,7 @@ website:    http://www.themepunch.com
 	line-height: 40px;
 	text-align: center;
 }
-.hephaistos.tparrows.tp-leftarrow:before {
+/*.hephaistos.tparrows.tp-leftarrow:before {
 	content: "\e82c";
   margin-left:-2px;
   
@@ -1474,7 +1474,7 @@ website:    http://www.themepunch.com
 	content: "\e82d";
    margin-right:-2px;
 }
-
+*/
 
 
 /* BULLETS */
@@ -1547,7 +1547,7 @@ website:    http://www.themepunch.com
     transition:all 0.3s;
     -webkit-transition:all 0.3s;
 }
-.hermes.tparrows.tp-leftarrow:before {
+/*.hermes.tparrows.tp-leftarrow:before {
 	content: "\e824";
 }
 .hermes.tparrows.tp-rightarrow:before {
@@ -1562,7 +1562,7 @@ website:    http://www.themepunch.com
     transform:translateX(20px);
     -webkit-transform:translateX(20px);
      opacity:0;
-}
+}*/
 
 .hermes .tp-arr-allwrapper {
     overflow:hidden;
@@ -1769,14 +1769,14 @@ website:    http://www.themepunch.com
 	line-height: 40px;
 	text-align: center;
 }
-.hesperiden.tparrows.tp-leftarrow:before {
+/*.hesperiden.tparrows.tp-leftarrow:before {
 	content: "\e82c";
     margin-left:-3px;
 }
 .hesperiden.tparrows.tp-rightarrow:before {
 	content: "\e82d";
     margin-right:-3px;
-}
+}*/
 
 /* BULLETS */
 .hesperiden.tp-bullets {
@@ -2162,12 +2162,12 @@ website:    http://www.themepunch.com
 	line-height: 40px;
 	text-align: center;
 }
-.persephone.tparrows.tp-leftarrow:before {
+/*.persephone.tparrows.tp-leftarrow:before {
 	content: "\e824";
 }
 .persephone.tparrows.tp-rightarrow:before {
 	content: "\e825";
-}
+}*/
 
 
 
@@ -2308,12 +2308,12 @@ website:    http://www.themepunch.com
   z-index:2;
   position:relative;
 }
-.zeus.tparrows.tp-leftarrow:before {
+/*.zeus.tparrows.tp-leftarrow:before {
   content: "\e824";
 }
 .zeus.tparrows.tp-rightarrow:before {
   content: "\e825";
-}
+}*/
 
 .zeus .tp-title-wrap {
   background:#000;
